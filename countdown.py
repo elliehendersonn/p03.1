@@ -38,3 +38,8 @@ def run_tests():
 
 # Edit this code
 def countdown(n):
+    for n in range (n, 0, -1):
+         print (n)
+ 
+if n == 1:
+        print ("Go!")
